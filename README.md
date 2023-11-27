@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virPhiL
 - 👀 I’m interested in linux & cybersecurity
-- 🌱 I’m currently learning ... since 25 years :)
+- 🌱 I’m currently learning ... since 30 years :)
 
 
 <!---
