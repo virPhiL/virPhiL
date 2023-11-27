@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virPhiL
+- 👋 Hi, I’m PhiL
 - 👀 I’m interested in linux & cybersecurity
 - 🌱 I’m currently learning ... since 30 years :)
 
